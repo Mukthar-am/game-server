@@ -1,0 +1,49 @@
+{
+  "app": {
+   "name": "ConnectTheClocks",
+    "build": 110107,
+    "version": "3.2.0-QA-MA-test"
+  },
+  "device": {
+      "advertising_id": "675438d9-1c4b-456f-a604-d82c46a69552",
+    "build_number": "cancro",
+    "category": "Mobile",
+    "device_id": "6458b202055249a6",
+    "height": 1920,
+    "imei": "865072028292640",
+    "manufacturer": "Xiaomi",
+    "model_number": "MI 3W",
+    "os": "Android",
+    "os_api_version": 19,
+    "os_version": "4.4.4",
+    "width": 1080
+  },
+  "user": {
+    "uuid": "uuid",
+    "user_name": "mukthar",
+    "email_id": "test@adof360.com",
+    "fb_id": "test@adof360.com",
+    "age": 25,
+    "gender": "m"
+  },
+  "geo": {
+    "city": "Bengaluru",
+    "country": "India",
+    "lat": 12.90124785,
+    "long": 77.61674922,
+    "state": "Karnataka"
+  },
+  "payload": {
+    "category": "claim_bonus"
+  },
+  "network": {
+    "carrier": "Vodafone IN",
+    "ip": "10.0.6.174",
+    "type": "WIFI"
+  },
+  "session": {
+    "session_id": "b6173d32-0174-4204-b0fb-fd1b83b79c3e-6458b2020552MaTouchloadTest"
+  },
+  "_t": "LoadTest",
+  "time_stamp": "2016-11-17 16:52:59"
+}
